@@ -8,3 +8,7 @@ As part of the SPO governance many organizations are disabling creation of MS Te
 ![screenshot](/images/quota.png)
 ### App config
 ![screenshot](/images/config.png)
+# Deployment
+1. Download all CSV files from Solution folder
+2. Create new SharePoint site where app data will be hosted
+3. ...
