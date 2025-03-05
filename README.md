@@ -1,2 +1,2 @@
-# MS-Teams-Requests
-Teams App for submitting MS Teams requests with approvals and provisioning
+# MS Teams or SPO site requests solution
+As part of the SPO governance many organizations are disabling creation of MS Teams and SPO sites for end users. This solution is for those organizations, and it allows them to deploy Teams application that users can use to submit requests for new MS Teams or SharePoint Online site. As part of the governance solution includes 2 step approvals (manager and IT).  
