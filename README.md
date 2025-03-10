@@ -11,12 +11,14 @@ As part of the SPO governance many organizations are disabling creation of MS Te
 # Solution architecture
 ## Database
 This solution stores data in 3 SharePoint Online lists:
+
 ![screenshot](/images/spolists.png)
 - Teams Request Settings - app solution settings that are controlable thru app
 - Teams Request - list of requests submited by end users
 - Teams Request Approver - list of approvers for each category (department or country or city or ...)
 ## Application
 Solution is provided as Power App Solution
+
 ![screenshot](/images/solution.png)
 - Canvas app
 - Power Automate flows
